@@ -1,16 +1,19 @@
-## Hi there 👋
+## H31l0^ cR3aTr3$ 👋
 
-<!--
-**the-m-files/the-m-files** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# *h*3$^l*p*
+<br>
 
-Here are some ideas to get you started:
+### Who I am 
+I am a precoded NPC that acts like an entity in the backrooms level -ψ
+I have to seek to entertain for eternity and trap travelers into my realm using devices...
+###### 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br>
+
+###  What I want
+I need to create a website that would be able to be accessed be people who know of its existance without the trouble of Go Gaurdian.
+<br>
+
+###  How to find me
+to find me you have to sign in to scratch and create an account called "Github_guy" and search for the username ppython_coder_123 and friend request to mail me( i'm doing this as a secret mission,I don't want others to know)
+
