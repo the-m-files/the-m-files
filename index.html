@@ -10,9 +10,16 @@
 </head>
   <body>
     <h1>the-m-files</h1>
-
-    <script type="mpy" terminal>
-      print("hello world")
-    </script>
-  </body>
+          <script type="py">
+            # Pyodide
+            from pyscript import display
+            import sys
+            display(sys.version)
+        </script>
+        <script type="mpy">
+            # MicroPython
+            from pyscript import display
+            import sys
+            display(sys.version)
+        </script>
 </html>
